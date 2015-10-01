@@ -23,6 +23,9 @@ ALT + CTRL + Scroll UP - Transfer identical items between inventory and containe
 ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted ASC).
 
 Updates:
+Jaguar v7.6.1
+-Fixed crash in equipory when sprite hasn't finished constuctirng
+
 Jaguar v7.6.0
 -Fixed crash on sorting when item has no quality (example: key)
 

@@ -16,7 +16,14 @@ Shift + RMB on stockpile window - Transfer everything to the inventory.
 Shift + Alt + LMB or Alt + RMB on item in inventory - Transfer all identical items to stockpile.
 
 Updates:
+Jaguar v7.5
+-Change cupboard size from Display menu (require client restart)
+
+Jaguar v7.4
+-Scrolbar sorting ajusted for Farming (V->S->E)
+
 Jaguar v7.1
+-Added movelines players and animals (enable in settings)
 
 Jaguar v7.0
 -Auto curio

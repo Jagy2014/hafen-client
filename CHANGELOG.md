@@ -1,3 +1,8 @@
+Last update:
+Jaguar v7.6.2
+-Fixed curio messages
+-Added separate study window (ALT + S)
+
 Hotkeys:
 CTRL + LMB - Drop(to the ground) single item.
 CTRL + ALT + LMB - Drop(to the ground) identical items.
@@ -11,7 +16,6 @@ Shft + Q/W/E/R - Change speed.
 CTRL + P - Show crop stage.
 SHIFT + C - Change between bad and ortho cameras.
 CTRL + D - Show mine support/beehive radius.
-Stockpiles
 SHIFT + RMB on stockpile window(NOT on stockpile itself!) - Transfer everything to the inventory.
 SHIFT + ALT + LMB or ALT + RMB on item in inventory - Transfer all identical items to stockpile.
 Take item on cursor and SHIFT + RMB - Transfer all similar items from inventory to stockpile.
@@ -21,6 +25,13 @@ ALT + Scroll UP - Transfer identical items between inventory and container(Will 
 ALT + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted DESC).
 ALT + CTRL + Scroll UP - Transfer identical items between inventory and container(Will be sorted ASC).
 ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted ASC).
+ALT + S - Opens separate study window
+
+Change Log:
+Updates:
+Jaguar v7.6.2
+-Fixed curio messages
+-Added separate study window
 
 Updates:
 Jaguar v7.6.1

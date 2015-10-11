@@ -1,7 +1,11 @@
 Last update:
-Jaguar v7.6.2
--Fixed curio messages
--Added separate study window (ALT + S)
+v7.7.0
+-Moved show arrows option to Maps settings-Hide icons-arrow. Arrows on minimap will be shown as red dot.
+-Added milestones(red star) to minimap. Can be disabled in Maps settings-Hide icons-milestone.
+-Added trees and bushes growth stages(1-99%). When tree/bush is ready then no pertentage shown on it, becouse it is treated as all normal trees(meaning not planted). So, you will not see 100%
+-Option for automatically selecting harvest action
+-NB! Fixed avg quality calculation (becouse formula is sqrt from all 3 qualities /3)
+-Don't save map tiles for houses and cellars
 
 Hotkeys:
 CTRL + LMB - Drop(to the ground) single item.
@@ -28,41 +32,47 @@ ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and contai
 ALT + S - Opens separate study window
 
 Change Log:
-Updates:
-Jaguar v7.6.2
--Fixed curio messages
--Added separate study window
+v7.7.0
+-Moved show arrows option to Maps settings-Hide icons-arrow. Arrows on minimap will be shown as red dot.
+-Added milestones(red star) to minimap. Can be disabled in Maps settings-Hide icons-milestone.
+-Added trees and bushes growth stages(1-99%). When tree/bush is ready then no pertentage shown on it, becouse it is treated as all normal trees(meaning not planted). So, you will not see 100%
+-Option for automatically selecting harvest action
+-NB! Fixed avg quality calculation (becouse formula is sqrt from all 3 qualities /3)
+-Don't save map tiles for houses and cellars
 
-Updates:
-Jaguar v7.6.1
+v7.6.2
+-Fixed curio messages
+-Added separate study window (ALT+S)
+
+v7.6.1
 -Fixed crash in equipory when sprite hasn't finished constuctirng
 
-Jaguar v7.6.0
+v7.6.0
 -Fixed crash on sorting when item has no quality (example: key)
 
-Jaguar v7.5.0
+v7.5.0
 -Change cupboard size from Display menu (require client restart)
 
-Jaguar v7.4.0
+v7.4.0
 -Scrolbar sorting ajusted for Farming (V->S->E)
 
-Jaguar v7.1.0
+v7.1.0
 -Added movelines players and animals (enable in settings)
 
-Jaguar v7.0.0
+v7.0.0
 -Auto curio
 -Attention meter (bdew)
 -Added curio remaining time info to Attention meter
 
 
-Jaguar v6.5.0
-Jaguar v6.4.0
-Jaguar v6.3.0
-Jaguar v6.2.0
-Jaguar v6.1.0
-Jaguar v6.0.0
-Jaguar v5.0.0
-Jaguar v4.0.0
-Jaguar v3.0.0
-Jaguar v2.0.0
-Jaguar v1.0.0
+v6.5.0
+v6.4.0
+v6.3.0
+v6.2.0
+v6.1.0
+v6.0.0
+v5.0.0
+v4.0.0
+v3.0.0
+v2.0.0
+v1.0.0

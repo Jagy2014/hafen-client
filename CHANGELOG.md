@@ -1,13 +1,23 @@
 Last update:
-v7.7.0
--Moved show arrows option to Maps settings-Hide icons-arrow. Arrows on minimap will be shown as red dot.
--Added milestones(red star) to minimap. Can be disabled in Maps settings-Hide icons-milestone.
--Added trees and bushes growth stages(1-99%). When tree/bush is ready then no pertentage shown on it, becouse it is treated as all normal trees(meaning not planted). So, you will not see 100%
--Option for automatically selecting harvest action
--NB! Fixed avg quality calculation (becouse formula is sqrt from all 3 qualities /3)
--Don't save map tiles for houses and cellars
+v7.7.2
+-Added "Run on login" option
+-Added option for automatically dropping seeds from inventory(You need to enable this only when harwest, to avoid auto mix seeds in inventory)
+-Slider for adjusting Quern sound volume
+-Attention meter fix (when loaded more than your int, bar will stay green, not red)
+
+v7.7.1
+-Added It's Dewy Mantle Time indicator and notification.
+-Added following options for F1-F4 keys. Old bindings will also work.
+	F1 - Equipment window (Ctrl+E)
+	F2 - Character Sheet (Ctrl+T)
+	F3 - Kith & Kin window (Ctrl+B)
+	F4 - Options window (Ctrl+O)
 
 Hotkeys:
+F1 - Equipment window (Ctrl+E)
+F2 - Character Sheet (Ctrl+T)
+F3 - Kith & Kin window (Ctrl+B)
+F4 - Options window (Ctrl+O)
 CTRL + LMB - Drop(to the ground) single item.
 CTRL + ALT + LMB - Drop(to the ground) identical items.
 SHIFT + LMB - Transfer single item between inventory and container.
@@ -17,7 +27,7 @@ SHIFT + Point with mouse over an object on the ground - shows its resource name.
 CTRL + Q - Open timers window.
 CTRL + G - Show grid overlay.
 Shft + Q/W/E/R - Change speed.
-CTRL + P - Show crop stage.
+CTRL + P - Show crops and trees stages.
 SHIFT + C - Change between bad and ortho cameras.
 CTRL + D - Show mine support/beehive radius.
 SHIFT + RMB on stockpile window(NOT on stockpile itself!) - Transfer everything to the inventory.
@@ -32,6 +42,19 @@ ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and contai
 ALT + S - Opens separate study window
 
 Change Log:
+7.7.2
+-Added "Run on login" option
+-Added option for automatically dropping seeds from inventory(You need to enable this only when harwest, to avoid auto mix seeds in inventory)
+-Slider for adjusting Quern sound volume
+
+v7.7.1
+-Added It's Dewy Mantle Time indicator and notification.
+-Added following options for F1-F4 keys. Old bindings will also work.
+	F1 - Equipment window (Ctrl+E)
+	F2 - Character Sheet (Ctrl+T)
+	F3 - Kith & Kin window (Ctrl+B)
+	F4 - Options window (Ctrl+O)
+
 v7.7.0
 -Moved show arrows option to Maps settings-Hide icons-arrow. Arrows on minimap will be shown as red dot.
 -Added milestones(red star) to minimap. Can be disabled in Maps settings-Hide icons-milestone.

@@ -1,4 +1,7 @@
-Last update:
+Last updates:
+v8.0.1
+-fixed crash when mass transfer items without any quality
+
 v8.0.0
 -Bunch of Loftar fixes.
 -Updated to support update: Coat of Many Colors
@@ -12,20 +15,6 @@ v8.0.0
 Pickup seeds later by SHIFT+RMB (will pickup all automatically and not mix).
 -CTRL+Home - Turns camera to North
 -Probably something else was improved that I forgot to discribe...
-
-v7.7.2
--Added "Run on login" option (You need to enable it in General settings)
--Added option for automatically dropping seeds from inventory(You need to enable this only when harwest, to avoid auto mix seeds in inventory)
--Slider for adjusting Quern sound volume
--Attention meter fix (when loaded more than your int, bar will stay green, not red)
-
-v7.7.1
--Added It's Dewy Mantle Time indicator and notification.
--Added following options for F1-F4 keys. Old bindings will also work.
-	F1 - Equipment window (Ctrl+E)
-	F2 - Character Sheet (Ctrl+T)
-	F3 - Kith & Kin window (Ctrl+B)
-	F4 - Options window (Ctrl+O)
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -59,11 +48,29 @@ ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and contai
 ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
-Change Log:
+Full Change Log:
+v8.0.1
+-fixed crash when mass transfer items without any quality
+
+v8.0.0
+-Bunch of Loftar fixes.
+-Updated to support update: Coat of Many Colors
+-Added tasks for filling troughs, coops and tar kilns (can be found in extended menu)
+-Added task for picking all nearby mussels (can be found in extended menu)
+-Added yellow X on curio that you already studying. Red "INT" identify that you can study, but require more Intelligence that you have. (Should be enabled in General settings)
+-Added Toggle Tracking on login (You need to enable it in General settings)
+-Added screenshoot hotkey (F12) will save img in screenshoots directory.
+-Added possibility to plant tree to center of tail. You will find Xtended menu (red plus sign). Hint how to do it is there(you will see it on mouse hover).
+-Added possibility to drop any seed placed into inventory(F5) - enable when harvesting, disable when done. Made to avoid automixing seeds when harvesting. When you pickup seeds from ground - they not stack automatically.
+Pickup seeds later by SHIFT+RMB (will pickup all automatically and not mix).
+-CTRL+Home - Turns camera to North
+-Probably something else was improved that I forgot to discribe...
+
 7.7.2
 -Added "Run on login" option
 -Added option for automatically dropping seeds from inventory(You need to enable this only when harwest, to avoid auto mix seeds in inventory)
 -Slider for adjusting Quern sound volume
+-Attention meter fix (when loaded more than your int, bar will stay green, not red)
 
 v7.7.1
 -Added It's Dewy Mantle Time indicator and notification.

@@ -1,20 +1,10 @@
 Last updates:
-v8.0.1
--fixed crash when mass transfer items without any quality
+v8.0.3
+-Show total damage that you did to opponent (Enable in Combat settings)
+-Show total damage that opponent did to you (Enable in Combat settings)
 
-v8.0.0
--Bunch of Loftar fixes.
--Updated to support update: Coat of Many Colors
--Added tasks for filling troughs, coops and tar kilns (can be found in extended menu)
--Added task for picking all nearby mussels (can be found in extended menu)
--Added yellow X on curio that you already studying. Red "INT" identify that you can study, but require more Intelligence that you have. (Should be enabled in General settings)
--Added Toggle Tracking on login (You need to enable it in General settings)
--Added screenshoot hotkey (F12) will save img in screenshoots directory.
--Added possibility to plant tree to center of tail. You will find Xtended menu (red plus sign). Hint how to do it is there(you will see it on mouse hover).
--Added possibility to drop any seed placed into inventory(F5) - enable when harvesting, disable when done. Made to avoid automixing seeds when harvesting. When you pickup seeds from ground - they not stack automatically.
-Pickup seeds later by SHIFT+RMB (will pickup all automatically and not mix).
--CTRL+Home - Turns camera to North
--Probably something else was improved that I forgot to discribe...
+v8.0.2
+-Fix for window position
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -49,6 +39,13 @@ ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
 Full Change Log:
+v8.0.3
+-Show total damage that you did to opponent (Enable in Combat settings)
+-Show total damage that opponent did to you (Enable in Combat settings)
+
+v8.0.2
+-Fix for window position
+
 v8.0.1
 -fixed crash when mass transfer items without any quality
 

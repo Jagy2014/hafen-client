@@ -1,4 +1,12 @@
-Last updates:
+Last 3 updates:
+v8.0.4
+-Added mode to automatically transfer arrows from the quiver to the inventory:
+ Put Quiver into your inventory, open it and take 1 arrow into inventory.
+ Press Toggle Arrow Autoloader in Xtended menu.
+ Quiver should stay open. Shoot. New arrow will be placed into inventory automatically.
+-Add task for putting 11 coals into Ore smelter
+-Fixed Mine support radius not showing when loading new areas
+
 v8.0.3
 -Show total damage that you did to opponent (Enable in Combat settings)
 -Show total damage that opponent did to you (Enable in Combat settings)
@@ -39,6 +47,14 @@ ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
 Full Change Log:
+v8.0.4
+-Added mode to automatically transfer arrows from the quiver to the inventory:
+ Put Quiver into your inventory, open it and take 1 arrow into inventory.
+ Press Toggle Arrow Autoloader in Xtended menu.
+ Quiver should stay open. Shoot. New arrow will be placed into inventory automatically.
+-Add task for putting 11 coals into Ore smelter
+-Fixed Mine support radius not showing when loading new areas
+
 v8.0.3
 -Show total damage that you did to opponent (Enable in Combat settings)
 -Show total damage that opponent did to you (Enable in Combat settings)

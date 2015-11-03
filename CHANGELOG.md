@@ -1,18 +1,8 @@
-Last 3 updates:
-v8.0.4
--Added mode to automatically transfer arrows from the quiver to the inventory:
- Put Quiver into your inventory, open it and take 1 arrow into inventory.
- Press Toggle Arrow Autoloader in Xtended menu.
- Quiver should stay open. Shoot. New arrow will be placed into inventory automatically.
--Add task for putting 11 coals into Ore smelter
--Fixed Mine support radius not showing when loading new areas
-
-v8.0.3
--Show total damage that you did to opponent (Enable in Combat settings)
--Show total damage that opponent did to you (Enable in Combat settings)
-
-v8.0.2
--Fix for window position
+Last update:
+v8.0.5
+-Loftar fixes
+-Amber cool button: Shift + Z + RMB with an item on a structure - Automatically fill it similarly to pressing shift+rmb each time.
+-Fine tuning for Jorb quality model
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)

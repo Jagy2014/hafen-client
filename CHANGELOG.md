@@ -1,8 +1,7 @@
 Last update:
-v8.0.5
--Loftar fixes
--Amber cool button: Shift + Z + RMB with an item on a structure - Automatically fill it similarly to pressing shift+rmb each time.
--Fine tuning for Jorb quality model
+v8.1.0
+-added option to show biome name on minimap. If mouse is over minimap it shows name of biome it is over, otherwise it shows biome player is in. (Ender)
+-added changes for game update: Cuck-Hombre
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -37,6 +36,15 @@ ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
 Full Change Log:
+v8.1.0
+-added option to show biome name on minimap. If mouse is over minimap it shows name of biome it is over, otherwise it shows biome player is in. (Ender)
+-added changes for game update: Cuck-Hombre
+
+v8.0.5
+-Loftar fixes
+-Amber cool button: Shift + Z + RMB with an item on a structure - Automatically fill it similarly to pressing shift+rmb each time.
+-Fine tuning for Jorb quality model
+
 v8.0.4
 -Added mode to automatically transfer arrows from the quiver to the inventory:
  Put Quiver into your inventory, open it and take 1 arrow into inventory.

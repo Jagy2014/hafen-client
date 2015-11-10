@@ -1,7 +1,9 @@
 Last update:
-v8.1.0
--added option to show biome name on minimap. If mouse is over minimap it shows name of biome it is over, otherwise it shows biome player is in. (Ender)
--added changes for game update: Cuck-Hombre
+v8.2.0
+-removed zoom-out limit for normal camera (Tip: Use keyboard Home button to reset into default zoom position when needed)
+-added static curio info based on config file
+-added option to take curio from all opened cupboards (General settings)
+-fixed separate curio window lock (ALT+S)
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -36,6 +38,12 @@ ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
 Full Change Log:
+v8.2.0
+-removed zoom-out limit for normal camera (Tip: Use keyboard Home button to reset into default zoom position when needed)
+-added static curio info based on config file
+-added option to take curio from all opened cupboards (General settings)
+-fixed separate curio window lock (ALT+S)
+
 v8.1.0
 -added option to show biome name on minimap. If mouse is over minimap it shows name of biome it is over, otherwise it shows biome player is in. (Ender)
 -added changes for game update: Cuck-Hombre

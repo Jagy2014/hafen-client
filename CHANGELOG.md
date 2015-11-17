@@ -1,8 +1,6 @@
 Last update:
-v8.2.6 - new
+v8.3.0
 -I allready lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
-
-v8.2.5 - new
 -Prevent minimap flicker when changing locations
 -Added option to draw background for quality numbers (Display settings)
 -Added Hide trees hotkey (Shift+H)
@@ -14,12 +12,6 @@ v8.2.5 - new
 -Added option to show lowest quality (as in Amber)
 -Added option for arithmetic average (as in Amber) (check Display settings)
 -Finally fixed sorting, now reflecting to selected arithmetic/quadratic quality options
-
-v8.2.0 - old
--removed zoom-out limit for normal camera (Tip: Use keyboard Home button to reset into default zoom position when needed)
--added static curio info based on config file
--added option to take curio from all opened cupboards (General settings)
--fixed separate curio window lock (ALT+S)
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -54,10 +46,8 @@ ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
 
 Full Change Log:
-v8.2.6
+v8.3.0
 -I allready lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
-
-v8.2.5
 -Prevent minimap flicker when changing locations
 -Added option to draw background for quality numbers (Display settings)
 -Added Hide trees hotkey (Shift+H)

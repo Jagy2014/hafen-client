@@ -1,6 +1,6 @@
 Last update:
 v8.3.0
--I allready lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
+-I already lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
 -Prevent minimap flicker when changing locations
 -Added option to draw background for quality numbers (Display settings)
 -Added Hide trees hotkey (Shift+H)

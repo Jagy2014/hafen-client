@@ -1,17 +1,6 @@
 Last update:
-v8.3.0
--I already lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
--Prevent minimap flicker when changing locations
--Added option to draw background for quality numbers (Display settings)
--Added Hide trees hotkey (Shift+H)
--More fixes for minimap drawing
--Added Craft search menu (Alt+C)
--Added Build search menu (Alt+B)
--Added last crafted items into craft menu as tabs
--Removed remaining Fraktur font
--Added option to show lowest quality (as in Amber)
--Added option for arithmetic average (as in Amber) (check Display settings)
--Finally fixed sorting, now reflecting to selected arithmetic/quadratic quality options
+v8.3.1
+-Fixed crash that can occur when hunger meter is not initialized fast enough
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -44,17 +33,23 @@ ALT + CTRL + Scroll UP - Transfer identical items between inventory and containe
 ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted ASC).
 ALT + S - Opens separate study window
 CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
+SHIFT+H - Hide trees
+ALT+C - Craft search menu
+ALT+B - Build search menu
 
 Full Change Log:
+v8.3.1
+-Fixed crash that can occur when hunger meter is not initialized fast enough
+
 v8.3.0
--I allready lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
+-I already lost my, so added Boar Spear to minimap (red dot as arrows). Could be disabled in Map Settings - hide icons
 -Prevent minimap flicker when changing locations
 -Added option to draw background for quality numbers (Display settings)
 -Added Hide trees hotkey (Shift+H)
 -More fixes for minimap drawing
--Added Craft menu (Alt+C)
+-Added Craft search menu (Alt+C)
+-Added Build search menu (Alt+B)
 -Added last crafted items into craft menu as tabs
--Added Build menu (Alt+B)
 -Removed remaining Fraktur font
 -Added option to show lowest quality (as in Amber)
 -Added option for arithmetic average (as in Amber) (check Display settings)

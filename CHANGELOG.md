@@ -1,4 +1,7 @@
 Last update:
+v8.3.2
+-Loftar fixes
+
 v8.3.1
 -Fixed crash that can occur when hunger meter is not initialized fast enough
 
@@ -38,6 +41,9 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v8.3.2
+-Loftar fixes
+
 v8.3.1
 -Fixed crash that can occur when hunger meter is not initialized fast enough
 

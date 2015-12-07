@@ -1,15 +1,11 @@
 Last update:
+v8.4.1
+-Alternative controls for minimap
+-Aggro closest player on Tab key
+-Aggro animals on minimap (using "t" hotkey)
+-Replaced Blue squares by stumps when trees in hide mode. You can interract with stumps.
+-Fixed crash on Barter stands
 
-v8.4.0
-Added latest Amber changes:
--Sound alarm when pony power drops below 10%
--Option to show buff icons when swimming/tracking/crime is active
--Fixed crime/track/swim toggles behaviour when switching chars and removed msg sfx on auto toggle
--Frog icon
--Allow picking up items with custom icons from minimap
--Fixed interaction with minimap icons when Config.iconsel is null
--Show contents quality for containers
--Cleanup in MinimapWnd
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -47,6 +43,13 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v8.4.1
+-Alternative controls for minimap
+-Aggro closest player on Tab key
+-Aggro animals on minimap (using "t" hotkey)
+-Replaced Blue squares by stumps when trees in hide mode. You can interract with stumps.
+-Fixed crash on Barter stands
+
 v8.4.0
 Added latest Amber changes:
 -Sound alarm when pony power drops below 10%

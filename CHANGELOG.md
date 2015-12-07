@@ -1,9 +1,15 @@
 Last update:
-v8.3.2
--Loftar fixes
 
-v8.3.1
--Fixed crash that can occur when hunger meter is not initialized fast enough
+v8.4.0
+Added latest Amber changes:
+-Sound alarm when pony power drops below 10%
+-Option to show buff icons when swimming/tracking/crime is active
+-Fixed crime/track/swim toggles behaviour when switching chars and removed msg sfx on auto toggle
+-Frog icon
+-Allow picking up items with custom icons from minimap
+-Fixed interaction with minimap icons when Config.iconsel is null
+-Show contents quality for containers
+-Cleanup in MinimapWnd
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -41,6 +47,17 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v8.4.0
+Added latest Amber changes:
+-Sound alarm when pony power drops below 10%
+-Option to show buff icons when swimming/tracking/crime is active
+-Fixed crime/track/swim toggles behaviour when switching chars and removed msg sfx on auto toggle
+-Frog icon
+-Allow picking up items with custom icons from minimap
+-Fixed interaction with minimap icons when Config.iconsel is null
+-Show contents quality for containers
+-Cleanup in MinimapWnd
+
 v8.3.2
 -Loftar fixes
 

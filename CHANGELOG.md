@@ -1,11 +1,8 @@
 Last update:
-v8.4.1
--Alternative controls for minimap
--Aggro closest player on Tab key
--Aggro animals on minimap (using "t" hotkey)
--Replaced Blue squares by stumps when trees in hide mode. You can interract with stumps.
--Fixed crash on Barter stands
 
+v8.4.2
+-added Quest log
+-Loftar fixes
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -43,6 +40,10 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v8.4.2
+-added Quest log
+-Loftar fixes
+
 v8.4.1
 -Alternative controls for minimap
 -Aggro closest player on Tab key

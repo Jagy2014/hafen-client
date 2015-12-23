@@ -3,7 +3,7 @@ Last update:
 v8.4.2
 -added Quest log
 -Loftar fixes
-
+ 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
 F2 - Character Sheet (Ctrl+T)

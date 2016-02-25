@@ -4,6 +4,7 @@ v9.0.0
 -Bump protocol version.
 -Switched to new, more extensible, glob format.
 -Show total softcap in craft window
+-Fixed crash when using slings
  
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -45,6 +46,7 @@ v9.0.0
 -Bump protocol version.
 -Switched to new, more extensible, glob format.
 -Show total softcap in craft window
+-Fixed crash when using slings
 
 v8.4.2
 -added Quest log

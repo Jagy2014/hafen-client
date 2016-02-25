@@ -1,8 +1,9 @@
 Last update:
 
-v8.4.2
--added Quest log
--Loftar fixes
+v9.0.0
+-Bump protocol version.
+-Switched to new, more extensible, glob format.
+-Show total softcap in craft window
  
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -40,6 +41,11 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v9.0.0
+-Bump protocol version.
+-Switched to new, more extensible, glob format.
+-Show total softcap in craft window
+
 v8.4.2
 -added Quest log
 -Loftar fixes

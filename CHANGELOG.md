@@ -1,5 +1,15 @@
 Last update:
 
+v9.1.0
+-Added auto mining: select mine, hold shift and select area to mine. Area should be to the right from your character.
+-Show different sign for crops at the last growth stage
+-Show distance from a party member
+-Fixed movement vectors not showing for vehicles
+-Added stalagmite to boulders list.
+-Added option to disable UI hiding with space-bar
+-Added store-hat equipment slot.
+-Added drink function
+
 v9.0.0
 -Bump protocol version.
 -Switched to new, more extensible, glob format.

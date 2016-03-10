@@ -1,20 +1,19 @@
 Last update:
 
-v9.1.0
--Added auto mining: select mine, hold shift and select area to mine. Area should be to the right from your character.
--Show different sign for crops at the last growth stage
--Show distance from a party member
--Fixed movement vectors not showing for vehicles
--Added stalagmite to boulders list.
--Added option to disable UI hiding with space-bar
--Added store-hat equipment slot.
--Added drink function
+v9.2.0
+-Option to highlight empty and finished drying frames
+-Do not highlight in red drying frames with WWW
 
-v9.0.0
--Bump protocol version.
--Switched to new, more extensible, glob format.
--Show total softcap in craft window
--Fixed crash when using slings
+--Vanilla Chages:
+--Work around apparent Intel GPU bug in MiscLib.olblend.
+--Fixed quest-view bug.
+--Bump protocol version.
+--Reworked resattr support.
+--Added support for decoding and managing resattr gob data.
+--Publicize bonedb wrappings.
+--Added toString method on MessageBuf.
+--Added overlay-blending.
+--Added support for an overlay texture.
  
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -52,6 +51,31 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v9.2.0
+-Option to highlight empty and finished drying frames
+-Do not highlight in red drying frames with WWW
+
+--Vanilla Chages:
+--Work around apparent Intel GPU bug in MiscLib.olblend.
+--Fixed quest-view bug.
+--Bump protocol version.
+--Reworked resattr support.
+--Added support for decoding and managing resattr gob data.
+--Publicize bonedb wrappings.
+--Added toString method on MessageBuf.
+--Added overlay-blending.
+--Added support for an overlay texture.
+
+v9.1.0
+-Added auto mining: select mine, hold shift and select area to mine. Area should be to the right from your character.
+-Show different sign for crops at the last growth stage
+-Show distance from a party member
+-Fixed movement vectors not showing for vehicles
+-Added stalagmite to boulders list.
+-Added option to disable UI hiding with space-bar
+-Added store-hat equipment slot.
+-Added drink function
+
 v9.0.0
 -Bump protocol version.
 -Switched to new, more extensible, glob format.

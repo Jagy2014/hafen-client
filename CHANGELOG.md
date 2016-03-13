@@ -1,8 +1,14 @@
 Last update:
 
-v9.2.0
--Option to highlight empty and finished drying frames
--Do not highlight in red drying frames with WWW
+v9.3.0
+-Set "Disable UI hiding with spacebar option" to enabled by default
+-Select syslog on login
+-Updated Calendar graphics
+-Shift+lmb - transfer single item into stockpile
+
+-Merged Paragon automations:
+-Farming
+-Dragonfly catcher
 
 --Vanilla Chages:
 --Work around apparent Intel GPU bug in MiscLib.olblend.

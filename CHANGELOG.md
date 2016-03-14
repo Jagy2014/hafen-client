@@ -1,38 +1,29 @@
 Last update:
+v9.4.0
+-Made base attributes' buffs and debuffs always visible
+-Changed ctrl+d to toggle only mine support radius and moved trough/beehive radius toggle to Display settings window
+-Option to show animal radius
+-Alarm on bluebells, flotsams, and edelweiss
+-Slider for adjusting fireplace sound volume
+-Draw icons for hostile animals on top
+-Alarm onbears, lynx and boars
+-Ignore loading exception when requesting overlay resource 
+-Revorked menu, moved all custom msettings to Jaguar settings window
+-Added Help menu
 
-v9.3.0
--Set "Disable UI hiding with spacebar option" to enabled by default
--Select syslog on login
--Updated Calendar graphics
--Shift+lmb - transfer single item into stockpile
-
--Merged Paragon automations:
--Farming
--Dragonfly catcher
-
---Vanilla Chages:
---Work around apparent Intel GPU bug in MiscLib.olblend.
---Fixed quest-view bug.
---Bump protocol version.
---Reworked resattr support.
---Added support for decoding and managing resattr gob data.
---Publicize bonedb wrappings.
---Added toString method on MessageBuf.
---Added overlay-blending.
---Added support for an overlay texture.
- 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
 F2 - Character Sheet (Ctrl+T)
 F3 - Kith & Kin window (Ctrl+B)
 F4 - Options window (Ctrl+O)
-F5 - Drop seeds placed into inventory.
+
 F12 - Take screenshot
 
 CTRL + LMB - Drop(to the ground) single item.
 CTRL + ALT + LMB - Drop(to the ground) identical items.
 SHIFT + LMB - Transfer single item between inventory and container.
 Shit + ALT + LMB - Transfer identical items between inventory and container. ?
+SHIFT + LMB - Transfer single item to opened stockpile
 CTRL + N - Toggle nightvision.
 SHIFT + Point with mouse over an object on the ground - shows its resource name.
 CTRL + Q - Open timers window.
@@ -57,6 +48,28 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v9.4.0
+-Made base attributes' buffs and debuffs always visible
+-Changed ctrl+d to toggle only mine support radius and moved trough/beehive radius toggle to Display settings window
+-Option to show animal radius
+-Alarm on bluebells, flotsams, and edelweiss
+-Slider for adjusting fireplace sound volume
+-Draw icons for hostile animals on top
+-Alarm onbears, lynx and boars
+-Ignore loading exception when requesting overlay resource 
+-Revorked menu, moved all custom msettings to Jaguar settings window
+-Added Help menu
+
+v9.3.0
+-Set "Disable UI hiding with spacebar option" to enabled by default
+-Select syslog on login
+-Updated Calendar graphics
+-Shift+lmb - transfer single item into stockpile
+
+-Merged Paragon automations:
+-Farming
+-Dragonfly catcher
+
 v9.2.0
 -Option to highlight empty and finished drying frames
 -Do not highlight in red drying frames with WWW

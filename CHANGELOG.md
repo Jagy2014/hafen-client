@@ -1,15 +1,8 @@
 Last update:
-v9.4.0
--Made base attributes' buffs and debuffs always visible
--Changed ctrl+d to toggle only mine support radius and moved trough/beehive radius toggle to Display settings window
--Option to show animal radius
--Alarm on bluebells, flotsams, and edelweiss
--Slider for adjusting fireplace sound volume
--Draw icons for hostile animals on top
--Alarm onbears, lynx and boars
--Ignore loading exception when requesting overlay resource 
--Revorked menu, moved all custom msettings to Jaguar settings window
--Added Help menu
+v9.4.5
+-Sort button for cupboards (needs to be fixed)
+-Last vanilla changes
+-Improved Farm function
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -48,6 +41,11 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v9.4.5
+-Sort button for cupboards (needs to be fixed)
+-Last vanilla changes
+-Improved Farm function
+
 v9.4.0
 -Made base attributes' buffs and debuffs always visible
 -Changed ctrl+d to toggle only mine support radius and moved trough/beehive radius toggle to Display settings window

@@ -1,8 +1,19 @@
 Last update:
-v9.4.5
--Sort button for cupboards (needs to be fixed)
--Last vanilla changes
--Improved Farm function
+
+v9.5.1
+-Option to not drope mined ore
+-Allow mining cave tiles in auto-miner
+-Terminate autominer when troll appears
+-Update curio data
+
+-Fixed rare crash when teleporting
+-Fixed null pointer dereference in GameUI.getmeter
+-Removed unnecessary comparison
+-Fixed Double.NaN test in partydraw
+-Fixed glslver test
+-Render grid underneath objects
+-Fixed invalid cast
+-Vanilla fixes
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -41,7 +52,22 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
-v9.4.5
+v9.5.1
+-Option to not drope mined ore
+-Allow mining cave tiles in auto-miner
+-Terminate autominer when troll appears
+-Update curio data
+
+-Fixed rare crash when teleporting
+-Fixed null pointer dereference in GameUI.getmeter
+-Removed unnecessary comparison
+-Fixed Double.NaN test in partydraw
+-Fixed glslver test
+-Render grid underneath objects
+-Fixed invalid cast
+-Vanilla fixes
+
+v9.5.0
 -Sort button for cupboards (needs to be fixed)
 -Last vanilla changes
 -Improved Farm function

@@ -1,19 +1,12 @@
 Last update:
 
-v9.5.1
--Option to not drope mined ore
--Allow mining cave tiles in auto-miner
--Terminate autominer when troll appears
--Update curio data
+v9.5.2
+-Mammoths alarm and wheelbarrow icon
+-Wagon icon
+-Hearthfire (actually all types of fires - pow) icon (Green star)
+-Leanto icon (Yellow start)
+All icons could be hided from: F4 - Map Settings - Hide icons
 
--Fixed rare crash when teleporting
--Fixed null pointer dereference in GameUI.getmeter
--Removed unnecessary comparison
--Fixed Double.NaN test in partydraw
--Fixed glslver test
--Render grid underneath objects
--Fixed invalid cast
--Vanilla fixes
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -52,6 +45,13 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+v9.5.2
+-Mammoths alarm and wheelbarrow icon
+-Wagon icon
+-Hearthfire (actually all types of fires - pow) icon (Green star)
+-Leanto icon (Yellow start)
+All icons could be hided from: F4 - Map Settings - Hide icons
+
 v9.5.1
 -Option to not drope mined ore
 -Allow mining cave tiles in auto-miner

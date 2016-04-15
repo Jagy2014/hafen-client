@@ -1,12 +1,9 @@
 Last update:
- 
-v9.5.2
--Mammoths alarm and wheelbarrow icon
--Wagon icon
--Hearthfire (actually all types of fires - pow) icon (Green star)
--Leanto icon (Yellow start)
-All icons could be hided from: F4 - Map Settings - Hide icons
 
+v16.04.15
+-New build numbering (yy.mm.dd)
+-Don't show radius for dead animals
+-All fixes that Loftar implemented in Vanilla (huge number of improvements)
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -45,6 +42,12 @@ ALT+C - Craft search menu
 ALT+B - Build search menu
 
 Full Change Log:
+
+v2016.04.15
+-New build numbering (test)
+-Don't show radius for dead animals
+-All fixes that Loftar implemented in Vanilla (huge number of improvements)
+ 
 v9.5.2
 -Mammoths alarm and wheelbarrow icon
 -Wagon icon
@@ -272,3 +275,8 @@ v4.0.0
 v3.0.0
 v2.0.0
 v1.0.0
+
+Notes:
+2016.04.15
+Loftar Commit 662efb6f3a079fc5bee7b27e7936210f241b1259 [662efb6]
+Gob.java - not implemented

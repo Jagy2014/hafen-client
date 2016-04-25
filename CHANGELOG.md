@@ -1,9 +1,27 @@
 Last update:
 
+v16.04.26
+Fully rewrited client. I taked last edition of amber and added own features back.
+Almost everything that was included in my client has been implemented back.
+
+Please re-check all settings from Options window (Ctrl+O or F4).
+Check Hotkeys! There is few differences from original Amber. And some new keys.
+
+Build on current Amber version 1.32.6 (released 25.04.2016)
+
+Enjoy!
+ 
 v16.04.15
 -New build numbering (yy.mm.dd)
 -Don't show radius for dead animals
 -All fixes that Loftar implemented in Vanilla (huge number of improvements)
+
+Not-So-Obvious Things:
+Auto-miner. Click the mining action. Hold down shift to select an area to mine.
+Hand slots can be moved by clicking empty space between them and dragging.
+Chat can be horizontally resized by dragging the right border.
+F-key toolbar - click on empty slot and drag to move. Shift + click to change orientation.
+Craft/build history hotbelt - right click to move. Shift + right click to change orientation.
 
 Hotkeys:
 F1 - Equipment window (Ctrl+E)
@@ -11,40 +29,55 @@ F2 - Character Sheet (Ctrl+T)
 F3 - Kith & Kin window (Ctrl+B)
 F4 - Options window (Ctrl+O)
 
-F12 - Take screenshot
-
-CTRL + LMB - Drop(to the ground) single item.
-CTRL + ALT + LMB - Drop(to the ground) identical items.
-SHIFT + LMB - Transfer single item between inventory and container.
-Shit + ALT + LMB - Transfer identical items between inventory and container. ?
-SHIFT + LMB - Transfer single item to opened stockpile
-CTRL + N - Toggle nightvision.
-SHIFT + Point with mouse over an object on the ground - shows its resource name.
-CTRL + Q - Open timers window.
-CTRL + G - Show grid overlay.
-Shft + Q/W/E/R - Change speed.
-CTRL + P - Show crops and trees stages.
-SHIFT + C - Change between bad and ortho cameras.
-CTRL + D - Show mine support/beehive radius.
-SHIFT + RMB on stockpile window(NOT on stockpile itself!) - Transfer everything to the inventory.
-SHIFT + ALT + LMB or ALT + RMB on item in inventory - Transfer all identical items to stockpile.
-Take item on cursor and SHIFT + RMB - Transfer all similar items from inventory to stockpile.
-ALT + RMB - Transfer identical items between inventory and container(Will be sorted DESC).
-CTRL + RMB - Transfer identical items between inventory and container(Will be sorted ASC).
-ALT + Scroll UP - Transfer identical items between inventory and container(Will be sorted DESC).
-ALT + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted DESC).
-ALT + CTRL + Scroll UP - Transfer identical items between inventory and container(Will be sorted ASC).
-ALT + CTRL + Scroll DOWN - Transfer identical items between inventory and container(Will be sorted ASC).
-ALT + S - Opens separate study window
-CTRL+H - Hide item on cursor (Needed to plant tree into center of tail)
-SHIFT+H - Hide trees
-ALT+C - Craft search menu
-ALT+B - Build search menu
+Ctrl + LMB - Drop single item.
+Ctlr + Alt + LMB - Drop identical items.
+Shift + LMB - Transfer single item between inventory and container.
+Ctrl + LMB - Transfer identical items between inventory and container in ascending order.
+Alt + LMB - Transfer identical items between inventory and container in descending order.
+Ctrl + N - Toggle daylight/nightvision.
+Shift + I - Toggles resource info when holding shift/shift+ctrl and pointing with the mouse.
+Shift + Point with mouse over an object - shows its resource name (See Shift+I).
+Shift + Ctrl + Point with mouse at a ground tile - shows its resource name (See Shift+I).
+Ctrl + Q - Open timers window.
+Ctrl + G - Show grid overlay.
+Shift + Q/W/E/R - Change speed.
+Ctrl + P - Show crop/tree stage.
+Shift + C - Change between bad and ortho cameras.
+Ctrl + D - Show mine support radius.
+Shift + RMB on stockpile window - Transfer everything to the inventory.
+Shift + Alt + LMB or Alt + RMB on item in inventory - Transfer all identical items to stockpile.
+Alt + Z/X - Simulate left clicks on quickslots.
+Ctrl + M - Show status widget.
+Ctrl + Shift + LMB on an item in inventory - opens wiki page for that item.
+Ctrl + Up/Right/Down/Left snaps ortho camera to N, E, S, W respectively.
+Alt + LBM - Highlight object for other players.
+Alt + S - Take screenshot.
+Shift + H - Hide trees.
+Ctrl + H - Hide item on cursor.
+Ctrl + X - Perform right mouse clicks at the tile's center.
+Tab - Aggro closest unknown/red player (works only if enabled from Combat Settings).
+Shift + Z + RMB with an item on a structure - Automatically fill it similarly to pressing shift+rmb each time.
+Shift + mouse wheel - rotate between combat opponents.
+Shift + B - Show bounding boxes.
+Ctrl + Z - Toggles path-finding (very experimental, use at your own risk).
+Shift + D - Toggles beehives/trough radius.
+` - Drink from any container located in the inventory.
 
 Full Change Log:
 
-v2016.04.15
--New build numbering (test)
+v16.04.26
+Fully rewrited client. I taked last edition of amber and added own features back.
+Almost everything that was included in my client has been implemented back.
+
+Please re-check all settings from Options window (Ctrl+O or F4).
+Check Hotkeys! There is few differences from original Amber. And some new keys.
+
+Build on current Amber version 1.32.6 (released 25.04.2016)
+
+Enjoy!
+ 
+v16.04.15
+-New build numbering (yy.mm.dd)
 -Don't show radius for dead animals
 -All fixes that Loftar implemented in Vanilla (huge number of improvements)
  

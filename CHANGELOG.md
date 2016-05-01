@@ -1,20 +1,8 @@
 Last update:
 
-v16.04.27
-Merged Vanilla changes.
-Merged Amber changes.
+v16.05.01
+Add curio calculations based on study time (Learning points/hour/size, learning points/hour/size/weigth) on mouse over.
 
-v16.04.26
-Fully rewrited client. I taked last edition of amber and added own features back.
-Almost everything that was included in my client has been implemented back.
-
-Please re-check all settings from Options window (Ctrl+O or F4).
-Check Hotkeys! There is few differences from original Amber. And some new keys.
-
-Build on current Amber version 1.32.6 (released 25.04.2016)
-
-Enjoy!
- 
 Not-So-Obvious Things:
 Auto-miner. Click the mining action. Hold down shift to select an area to mine.
 Hand slots can be moved by clicking empty space between them and dragging.
@@ -60,9 +48,11 @@ Shift + mouse wheel - rotate between combat opponents.
 Shift + B - Show bounding boxes.
 Ctrl + Z - Toggles path-finding (very experimental, use at your own risk).
 Shift + D - Toggles beehives/trough radius.
-` - Drink from any container located in the inventory.
+` (back-quote/tilde) - Drink from any container located in the inventory.
 
 Full Change Log:
+v16.05.01
+Add curio calculations based on study time (Learning points/hour/size, learning points/hour/size/weigth) on mouse over.
 
 v16.04.27
 Merged Vanilla changes.

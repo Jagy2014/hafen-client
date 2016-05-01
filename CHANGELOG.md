@@ -1,7 +1,7 @@
 Last update:
 
 v16.05.01
-Add curio calculations based on study time (Learning points/hour/size, learning points/hour/size/weigth) on mouse over.
+Add curio calculations based on study time (Learning points/hour/size, Learning points/hour/size/weight) on mouse over.
 
 Not-So-Obvious Things:
 Auto-miner. Click the mining action. Hold down shift to select an area to mine.
